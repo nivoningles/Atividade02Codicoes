@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="620376f7-72eb-429a-ba63-8828bcdb20f5" name="Changes" comment="Atividade 01">
-      <change afterPath="$PROJECT_DIR$/src/Atividade_2_Classificacao_de_Notas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade_3_Par_ou_Impar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade_4_Verificacao_de_Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nivoningles&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nivoningles/Atividade02Codicoes.git&quot;,
+    &quot;accountId&quot;: &quot;f135d73f-a76a-486e-ab25-e6e54e2e0998&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2lJ6JdkpJaczpWoGOeaaZ0t4T2v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,6 +49,7 @@
     "Application.Atividade_1_Verificacao_de_Maioridade.executor": "Run",
     "Application.Atividade_2_Classificacao_de_Notas.executor": "Run",
     "Application.Atividade_3_Par_ou_Impar.executor": "Run",
+    "Application.Atividade_4_Verificacao_de_Login.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -65,7 +77,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724885764692</updated>
-      <workItem from="1724885765828" duration="2698000" />
+      <workItem from="1724885765828" duration="3343000" />
+      <workItem from="1724975739701" duration="1721000" />
     </task>
     <task id="LOCAL-00001" summary="Atividade 01">
       <option name="closed" value="true" />
@@ -75,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724886821564</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atividade 01">
+      <option name="closed" value="true" />
+      <created>1724888669188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724888669188</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
