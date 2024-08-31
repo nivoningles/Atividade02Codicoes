@@ -5,8 +5,10 @@ public class Atividade_8_Classificacao_de_Temperatura {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in).useLocale(Locale.US);
         System.out.print("Informe o valor da temperatura em Gruas Celsius: ");
-        String temperatuera = sc.nextLine();
-        Double temperaturaDouble= Double.parseDouble(temperatuera);
+        String temperatura = sc.nextLine();
+        temperatura = temperatura.replace(",", ".");
+        Double temperaturaDouble= Double.parseDouble(temperatura);
+
 
         if (temperaturaDouble > 30){
             System.out.println("Temperatura está Quente");
