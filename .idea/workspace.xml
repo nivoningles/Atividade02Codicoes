@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="620376f7-72eb-429a-ba63-8828bcdb20f5" name="Changes" comment="Atividade 01">
-      <change afterPath="$PROJECT_DIR$/src/Atividade_7_Calculadora_Simples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade_8_Classificacao_de_Temperatura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,7 @@
       <updated>1724885764692</updated>
       <workItem from="1724885765828" duration="3343000" />
       <workItem from="1724975739701" duration="2745000" />
-      <workItem from="1725063202930" duration="6232000" />
+      <workItem from="1725063202930" duration="6776000" />
     </task>
     <task id="LOCAL-00001" summary="Atividade 01">
       <option name="closed" value="true" />
@@ -124,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725130620410</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Atividade 01">
+      <option name="closed" value="true" />
+      <created>1725134794420</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725134794420</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
